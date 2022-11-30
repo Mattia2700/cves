@@ -7,3 +7,9 @@
 [submodule "CVE-2022-0847-DirtyPipe-Exploits"]
 	path = CVE-2022-0847-DirtyPipe-Exploits
 	url = https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits.git
+[submodule "linux-exploit-suggester"]
+	path = linux-exploit-suggester
+	url = https://github.com/mzet-/linux-exploit-suggester
+[submodule "linux-exploit-suggester-2"]
+	path = linux-exploit-suggester-2
+	url = https://github.com/jondonas/linux-exploit-suggester-2.git
